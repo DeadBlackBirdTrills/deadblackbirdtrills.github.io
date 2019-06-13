@@ -2,10 +2,11 @@
 
 ## Доступные методы
 
-* [Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) GET / all activities
-* [Получить ответ на вопрос](https://t.me/konstantinfedorov) POST / question
+* [Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) GET / Activities: List
+* [Получить ответ на вопрос](https://t.me/konstantinfedorov) POST / Question
 
 
 ## Методы в разработке
 
 * показать календарь
+* получить рекомендацию
