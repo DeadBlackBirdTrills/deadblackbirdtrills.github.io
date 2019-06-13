@@ -1,1 +1,10 @@
+title:       "Page title"
+header_title: "Header Title"
+email:       b2brus@gmail.com
+author:      Константин Федоров
+description: "My blog description"
+baseurl:     ""
+url:         ""
+date_format: "%-d.%m.%Y"
+
 remote_theme: carte
