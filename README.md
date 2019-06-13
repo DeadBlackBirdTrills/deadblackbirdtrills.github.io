@@ -1,7 +1,11 @@
+Я человек и умею делать разные полезные штуки. Это моё API, начал работать над ним совем недавно, так что пока интерфейс очень скромный. Полагаю, это для тех, с кем мы уже сотрудничали или знакомы. 
+
 ## Доступные методы
 
-[Показать список доступных ролей](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki)
+[Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) GET / all activities
+[Получить ответ на вопрос](https://t.me/konstantinfedorov) POST / question
+
 
 ## Методы в разработке
 
-* ///
+* показать календарь
