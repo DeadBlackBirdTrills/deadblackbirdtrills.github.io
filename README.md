@@ -3,11 +3,13 @@
 
 ## Доступные методы
 
+---
+
 ` GET / Activities: List ` 
 
 [Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) 
 
-
+---
 
 ` POST / Question ` 
 
@@ -17,5 +19,5 @@
 
 ## Методы в разработке
 
-- [ ] показать календарь
-- [ ] получить рекомендацию
+[ ] показать календарь
+[ ] получить рекомендацию
