@@ -2,8 +2,9 @@
 
 ## Доступные методы
 
-* [Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) GET / Activities: List
-* [Получить ответ на вопрос](https://t.me/konstantinfedorov) POST / Question
+[Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) GET / Activities: List
+
+[Получить ответ на вопрос](https://t.me/konstantinfedorov) POST / Question
 
 
 ## Методы в разработке
