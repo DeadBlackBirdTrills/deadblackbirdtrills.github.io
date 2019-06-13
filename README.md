@@ -3,11 +3,9 @@
 
 ## Доступные методы
 
-[Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) 
-`GET / Activities: List`
+`GET / Activities: List` [Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) 
 
-[Получить ответ на вопрос](https://t.me/konstantinfedorov) 
-`POST / Question`
+`POST / Question` [Получить ответ на вопрос](https://t.me/konstantinfedorov) 
 
 
 ## Методы в разработке
