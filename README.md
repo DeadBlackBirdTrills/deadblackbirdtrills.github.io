@@ -7,7 +7,7 @@
 
 ` GET / Activities: List ` 
 
-[Показать доступные виды деятельности](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) 
+[Показать доступные роли](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki) 
 
 |
 
