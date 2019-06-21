@@ -11,6 +11,7 @@
 ### Веб разработка со стороны заказчика 
   - Заказчик приложения или [Product owner](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Product-owner)
   - Служба заказчика приложения или Servant of the Product owner _#ComingSoon_
+  
 ### Производство контента
 
 Номенклатурный, рекламный-продающий, пользовательский (UGC) и паблисити. 
