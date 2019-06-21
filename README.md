@@ -30,7 +30,9 @@
 Для инвесторов в ИТ стартапы и для ИТ специалистов как владельцев своей экспертизы и бренда. [Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D0%B3)
   
 #  
-#  
+/
+#
+#
   
   
   
