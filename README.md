@@ -10,7 +10,7 @@
 
 ### Веб разработка со стороны заказчика 
   - Заказчик приложения или [Product owner](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Product-owner)
-  - Служба заказчика приложения или Servant of the Product owner #ComingSoon
+  - Служба заказчика приложения или Servant of the Product owner _#ComingSoon_
 ### Производство контента
 
 Номенклатурный, рекламный-продающий, пользовательский (UGC) и паблисити. 
@@ -18,7 +18,7 @@
 
 ### Маркетинг и продажи
 
-- Менеджер продукта или Product manager #ComingSoon
+- Менеджер продукта или Product manager _#ComingSoon_
 - Интернет-маркетолог или Internet marketing manager
 - Руководитель клиентского сервиса или Customer service manager 
 
