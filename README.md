@@ -1,6 +1,6 @@
 Если ваш бизнес - веб сервис как продукт или вебразработка как услуга, то мы с вами коллеги.
 
-Предварительно, могу быть полезен вашей команде по этим направлениям, или для их интеграции:
+Предварительно, могу быть полезен вашей команде по этим направлениям и для их синергии:
 
 ### Веб разработка со стороны производства
 - Капитан команды или [Team lead](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Team-lead)
@@ -13,12 +13,10 @@
   - Служба заказчика приложения или Servant of the Product owner _#ComingSoon_
   
 ### Производство контента
-
 Номенклатурный, рекламный-продающий, пользовательский (UGC) и паблисити. 
 [Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0)
 
 ### Маркетинг и продажи
-
 - Менеджер продукта или Product manager _#ComingSoon_
 - Интернет-маркетолог или Internet marketing manager
 - Руководитель клиентского сервиса или Customer service manager 
