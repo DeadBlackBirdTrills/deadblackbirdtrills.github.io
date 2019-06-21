@@ -39,8 +39,6 @@
 
 Над своим API, в смысле, API меня, начал работать недавно, интерфейс пока скромный, но он работает )
 
-` POST / Question ` 
-
-[Получить ответ на вопрос](https://t.me/konstantinfedorov) 
+` POST / Question `  [Получить ответ на вопрос](https://t.me/konstantinfedorov) 
   
  
