@@ -12,8 +12,10 @@
   - Заказчик приложения или [Product owner](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Product-owner)
   - Служба заказчика приложения или [Servant of the Product owner](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Servant-of-the-Product-owner)
 
-## Производство контента: номенклатурного, рекламного-продающего, пользовательского (UGC) и паблисити_
-[Подробнее](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0)
+## Производство контента
+
+Номенклатурный, рекламный-продающий, пользовательский (UGC) и паблисити. 
+[Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0)
 
 ## Маркетинг и продажи
 
@@ -22,10 +24,12 @@
 - Руководитель клиентского сервиса или Customer service manager 
 
 ## Организационное развитие 
-Аналитика и игротехника. [Подробнее...] (https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5) 
+Аналитика и игротехника. 
+[Подробнее...] (https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5) 
 
 ## Владельческий консалтинг
-Для инвесторов в ИТ стартапы и для ИТ специалистов как владельцев своей экспертизы и бренда. [Подробнее...]
+Для инвесторов в ИТ стартапы и для ИТ специалистов как владельцев своей экспертизы и бренда. 
+[Подробнее...]
 (https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D0%B3) 
 
 Могу создавать ценность
