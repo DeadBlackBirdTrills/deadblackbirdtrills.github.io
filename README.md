@@ -17,7 +17,7 @@
 [Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0)
 
 ### Маркетинг и продажи
-- Менеджер продукта или Product manager _#ComingSoon_
+- Менеджер продукта или [Product manager](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Product-manager)
 - Интернет-маркетолог или Internet marketing manager
 - Руководитель клиентского сервиса или Customer service manager 
 
