@@ -1,6 +1,7 @@
 Если ваш бизнес - вебсервис как продукт или вебразработка как услуга, то мы с вами коллеги. 
 
 Моя особенность - компетентное владение широким набором ключевых позиций, нет цели занять одну из них в вашей компаний, моя цель "встроиться" в драйверы роста вашего бизнеса там, где это нужно здесь и сейчас, чтобы, достигнув успеха, перейти потом в другие зоны роста.
+
 ![](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/blob/develop/images/50px.png)  
 
 ### Веб разработка со стороны производства
@@ -8,6 +9,7 @@
 - Аналитик предметной области или [Domain analyst & API developer & QA](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Domain-analyst-&-API-developer-&-QA)
 - Разработчик UI компонентов или [UI components developer](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/UI-components-developer)
 - UI дизайнер или [UI designer & QA](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/UI-designer-&-QA)
+
 ![](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/blob/develop/images/50px.png)  
 
 ### Веб разработка со стороны заказчика 
