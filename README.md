@@ -19,11 +19,16 @@
 ### Маркетинг и продажи
 - Менеджер продукта или [Product manager](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/Product-manager)
 - Руководитель службы телемаркетинга
-- Интернет-маркетолог или Internet marketing manager
-- Руководитель клиентского сервиса или Customer service manager 
+- Интернет-маркетолог 
+- Руководитель клиентского сервиса 
 
-### Организационное развитие 
-Аналитика и игротехника. [Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5)
+### Менеджмент 
+- Бизнес-аналитик
+- Игротехник, модератор
+- Координатор проектного офиса
+- Координатор инвестиционных проектов
+- Координатор проектов оргразвития
+- Координатор фандрайзинга
 
 ### Владельческий консалтинг
 Для инвесторов в ИТ стартапы и для ИТ специалистов как владельцев своей экспертизы и бренда. [Подробнее...](https://github.com/DeadBlackBirdTrills/deadblackbirdtrills.github.io/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D0%B3)
